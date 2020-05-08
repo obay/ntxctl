@@ -6,7 +6,9 @@ In ntxctl, I'll do my best to capture the spirit of Nutanix and manifist it is "
 
 
 
-## Configure `ntxctl` to Connect to Your Cluster
+## Usage
+
+### Configure `ntxctl` to Connect to Your Cluster
 
 ```bash
 ntxctl configure
@@ -14,9 +16,7 @@ ntxctl configure
 
 
 
-
-
-## Get All VMs from Nutanix
+### Get All VMs from Nutanix
 
 
 ```bash
